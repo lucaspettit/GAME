@@ -50,3 +50,8 @@ Temporary Items
 *.obj
 *.log
 *.exe
+*.ilk
+*.pdb
+*.suo
+*.db
+*.tlog
